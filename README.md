@@ -1,4 +1,4 @@
-# git_flow
+# git
 
 A new Flutter project.
 
