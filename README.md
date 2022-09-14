@@ -3,10 +3,14 @@
 A new Flutter project.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Getting Startedteste
 =======
 ## Getting Started
 >>>>>>> parent of 7598470 (doc: primeiro commit exemplo-rebase)
+=======
+## Getting
+>>>>>>> parent of dafb26c (dov: segundo commit exemplo-rebase)
 
 This project is a starting point for a Flutter application.
 
